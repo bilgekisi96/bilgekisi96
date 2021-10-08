@@ -1,7 +1,7 @@
 ## Hi there. I'm Yavuz selim..:wave:
-- :telescope: I’m currently working on Data Analyses
+- :telescope: I’m currently working on Data Analys and Data Science 
 - :seedling: I’m currently learning Data Analyses tools
-- :speech_balloon: I am happy to teach you what I know and eager to learn what you will offer
+- :speech_balloon: My life motto => "Creat Something Greater Than Yourself" 
 - 
 ## :man::woman: Social
 [![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yavuz-selim-%C3%B6zk%C3%B6k-48214015b/)
@@ -27,4 +27,4 @@
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=bilgekisi96&theme=chartreuse-dark" alt="my github stats" width="49%"/>&nbsp;
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=bilgekisi96&theme=chartreuse-dark" alt="my commit status" width="49%" /> </p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yavuzselimozkok&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" > </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilgekisi96&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" > </p>
