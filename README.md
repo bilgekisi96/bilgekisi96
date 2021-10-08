@@ -8,6 +8,7 @@
 [<img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>](https://www.hackerrank.com/yavuzselimozkok)
 [![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:yavuzselimozkok@gmail.com)
 [![website](https://img.shields.io/badge/%20-medium-black?&style=for-the-badge&logoColor=white)](https://yavuzselimozkok.medium.com/)
+[![website](https://img.shields.io/badge/%20-blog-orange?&style=for-the-badge&logoColor=red)](https://yapayzekaneuralnetwork.blogspot.com/)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Yavuzselimozkok" alt="yavuzselimozkok" /> </p>
 
 
