@@ -1,6 +1,6 @@
 ## Hi there. I'm Yavuz selim..:wave:
 - :telescope: I’m currently working on Data Analys and Data Science 
-- :seedling: I’m currently learning Data Analyses tools
+- :seedling: I’m currently learning Data Analyses tools Data Visualization and sql database
 - :speech_balloon: My life motto => "Creat Something Greater Than Yourself" 
 - 
 ## :man::woman: Social
