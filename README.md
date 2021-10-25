@@ -37,7 +37,7 @@
 <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" alt="gitHub" height="50"/> </a>
 <a href="#" target="_blank"> <img src="https://img.shields.io/badge/jira-1e90ff.svg?&style=for-the-badge&logo=jira&logoColor=white" height="50"/> </a>
 <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Slack_Technologies_Logo.svg/1280px-Slack_Technologies_Logo.svg.png" height="50"/> </a>
-<a href="#" target="_blank"> <img src="https://commons.wikimedia.org/wiki/File:PyCharm_Icon.svg&style=for-the-badge&logo=PyCharm&logoColor=white" height="50"/> </a>
+<a title="JetBrains, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:PyCharm_Icon.svg"><img width="51" alt="PyCharm Icon" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/51px-PyCharm_Icon.svg.png"></a>
   
 </p>
 <p align="left">
