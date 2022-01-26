@@ -24,7 +24,7 @@
 <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png" alt="Pandas" height="70"/> </a>
 <a href="#" target="_blank"> <img src="https://www.scipy.org/_static/logo.png" alt="SciPy" width="120"/> </a>
 <a href="#" target="_blank"> <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="120"/> </a>
-<a href="#" target="_blank"> <img src="https://d33wubrfki0l68.cloudfront.net/f693dd79628fbdfa9bb751af7b1ea9888dfb2aee/07cab/static/uploads/scikit-learn.webp" alt="Sklearn | Domino Data Science Dictionary" jsaction="load:XAeZkd;" jsname="HiaYvf" class="n3VNCb" data-noaft="1" style="width: 90px; height: 36.669px; margin: 29.9654px 0px;"> </a>
+<a href="#" target="_blank"> <img src="https://d33wubrfki0l68.cloudfront.net/f693dd79628fbdfa9bb751af7b1ea9888dfb2aee/07cab/static/uploads/scikit-learn.webp" alt="Sklearn | Domino Data Science Dictionary" jsaction="load:XAeZkd;" jsname="HiaYvf" class="n3VNCb" data-noaft="1" style="width:150px; height: 72.669px; margin: 59.9654px 0px;"> </a>
 ## 💻 Languages
 
 <a href="#" target="_blank"> <img src="https://download.logo.wine/logo/Python_(programming_language)/Python_(programming_language)-Logo.wine.png" alt="Python" width="150"/> </a>
