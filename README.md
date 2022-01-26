@@ -1,6 +1,6 @@
 ## Hi there. I'm Yavuz selim..:wave:
-- :telescope: I’m currently working on Data Analys and Data Science 
-- :speech_balloon: I have finished Data Analys Course and I am working on Data Scientist working attidues :) 
+- :telescope: I’m currently working on Data Analysis and Data Science 
+- :speech_balloon: I have finished Data Analysis Course and I am working on Data Scientist working attidues :) 
 - :seedling: I’m currently learning Data Scientist and Machine Learning with great sklearn libraries 
 - :speech_balloon: My life motto => "Creat Something Greater Than Yourself" 
 - 
