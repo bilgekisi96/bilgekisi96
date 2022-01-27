@@ -44,4 +44,4 @@
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=bilgekisi96&theme=chartreuse-dark" alt="my github stats" width="49%"/> &nbsp; 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=bilgekisi96&theme=chartreuse-dark" alt="my commit status" width="49%" /> </p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilgekisi96&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" /></p><img src="https://images.repography.com/0/neovim/neovim/recent-activity/d751713988987e9331980363e24189ce.svg" alt="stats" width="49%" > </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilgekisi96&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" /></p>
