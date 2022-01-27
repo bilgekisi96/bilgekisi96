@@ -1,3 +1,4 @@
+</p><img src="https://images.repography.com/0/neovim/neovim/recent-activity/d751713988987e9331980363e24189ce.svg" alt="stats" width="80%" > </p>
 ## Hi there. I'm Yavuz selim..:wave:
 - :telescope: I’m currently working on Data Analysis and Data Science 
 - :speech_balloon: I have finished Data Analysis Course and I am working on Data Scientist working attidues :) 
