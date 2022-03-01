@@ -7,7 +7,8 @@
 - :speech_balloon: I have finished Data Analysis Course and I am working on Data Scientist working attidues :) 
 - :seedling: I’m currently learning Data Scientist and Machine Learning with great sklearn libraries 
 - :speech_balloon: My life motto => "Creat Something Greater Than Yourself" 
-- 
+
+- ### My first ML-deployment [ML-Autoscout-Project](https://share.streamlit.io/bilgekisi96/ml-deployment/main/streamlit_student_app.py)
 ## :man::woman: Social
 [![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yavuz-selim-%C3%B6zk%C3%B6k-48214015b/)
 [<img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>](https://www.hackerrank.com/yavuzselimozkok)
