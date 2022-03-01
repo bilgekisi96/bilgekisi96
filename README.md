@@ -52,3 +52,24 @@
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilgekisi96&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" /></p>
 <img src="https://images.repography.com/0/neovim/neovim/recent-activity/d751713988987e9331980363e24189ce.svg" alt="stats" width="80%" > </p>
 curl --proto '=https' --tlsv1.2 -sSf https://repography.com/run.sh | bash -s -- 6pXnrYaH6oo57Y2rWIiS
+
+<p align="left">
+   <i> 
+    
+    
+    “Have the courage to follow your heart and intuition. They 
+       somehow already know what you truly want to become.
+          Everything else is secondary.”
+                                                             ― Steve Jobs
+  </i>
+</p>       
+
+---
+
+<!-- <p href="mailto:iamsunitroy03@gmail.com"> <img src="https://github.com/SunitRoy2703/SunitRoy2703/blob/main/assets/mental%20health.gif" padding="25"</p> -->
+ 
+## Mail me here for communicate: yavuzselimozkok@gmail.com
+                                      
+# Listen to my favourite song! 🎧
+https://www.youtube.com/watch?v=h3h035Eyz5A&ab_channel=Loku
+
