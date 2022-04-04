@@ -5,7 +5,7 @@
 ## Hi there. I'm Yavuz selim..:wave:
 - :telescope: I’m currently working on NLP and Data Science 
 - :speech_balloon: I have finished Data Analysis Course and I am working on Data Scientist working attidues :) 
-- :seedling: I’m currently learning Data Scientist and Machine Learning with great sklearn libraries 
+- :seedling: I’m currently learning Deep Learning and NLP 
 - :speech_balloon: My life motto => "Creat Something Greater Than Yourself" 
 
 - ### My first ML-deployment [ML-Autoscout-Project](https://share.streamlit.io/bilgekisi96/ml-deployment/main/streamlit_student_app.py)
