@@ -19,8 +19,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Yavuzselimozkok" alt="yavuzselimozkok" /> </p>
 
 ## 💻 Web Programming
-<a href="#" target="_blank"> <img src="https://logowik.com/content/uploads/images/angular9826.logowik.com.webp" alt="Angılar" width="150" height="80" style="margin: 79.9654px 0px;"/> </a>
-<a href="#" target="_blank"> <img src="https://cdn.thenewstack.io/media/2022/01/10b88c68-typescript-logo.png" alt="Typescript" width="150" height="80" style="margin: 79.9654px 0px;"/> </a>
+<a href="#" target="_blank"> <img src="https://logowik.com/content/uploads/images/angular9826.logowik.com.webp" alt="Angılar" width="120" height="80" style="margin-left: 79.9654px 0px;"/> </a>
+<a href="#" target="_blank"> <img src="https://cdn.thenewstack.io/media/2022/01/10b88c68-typescript-logo.png" alt="Typescript" width="120" height="80" style="margin-left: 79.9654px 0px;"/> </a>
 
 
 
