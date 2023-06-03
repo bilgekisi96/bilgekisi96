@@ -23,7 +23,7 @@
 <a href="#" target="_blank"> <img src="https://matplotlib.org/stable/_static/logo2_compressed.svg" alt="Matplotlib" height="50"/> </a>
 <a href="#" target="_blank"> <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="50"/> </a>
 <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png" alt="Pandas" height="50"/> </a>
-<a href="#" target="_blank"> <img src="https://www.tableau.com/sites/default/files/pages/tableaulogo_highres.png" alt="Tableau" height="50"/> </a>
+<a href="#" target="_blank"> <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASsA…5Lb/lt/yW3/JbfgvI/wGaQY25E08rIwAAAABJRU5ErkJggg==" alt="Django Rest Framework" height="50"/> </a>
 
 ## 💻 Python Libraries
 
@@ -31,6 +31,8 @@
 <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png" alt="Pandas" height="70"/> </a>
 <a href="#" target="_blank"> <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="120"/> </a>
 <a href="#" target="_blank"> <img src="https://d33wubrfki0l68.cloudfront.net/f693dd79628fbdfa9bb751af7b1ea9888dfb2aee/07cab/static/uploads/scikit-learn.webp" alt="Sklearn | Domino Data Science Dictionary" jsaction="load:XAeZkd;" jsname="HiaYvf" class="n3VNCb" data-noaft="1" style="width:170px; height: 92.669px; margin: 79.9654px 0px;"> </a>
+<a href="#" target="_blank"> <img src="https://numpy.org/doc/stable/_static/numpylogo.svg" alt="Numpy" width="120"/> </a>
+
 ## 💻 Languages
 
 <a href="#" target="_blank"> <img src="https://download.logo.wine/logo/Python_(programming_language)/Python_(programming_language)-Logo.wine.png" alt="Python" width="150"/> </a>
