@@ -3,7 +3,7 @@
 <h1 align="center"> <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/hi.gif" width="40"/>  I'm <a href="https://sunitroy2703.github.io/" target="_blank">Yavuz selim</a>. Nice to see you.🤗 </h1> 
 
 ## Hi there. I'm Yavuz selim..:wave:
-- :telescope: I’m currently working on NLP and Data Science 
+- :telescope: I’m currently working on Django Web Frame work and Angular My idea is has a be great Full Stack Developer and consultant 
 - :speech_balloon: I have finished Data Analysis Course and I am working on Data Scientist working attidues :) 
 - :seedling: I’m currently learning Deep Learning and NLP 
 - :speech_balloon: My life motto => "Creat Something Greater Than Yourself" 
