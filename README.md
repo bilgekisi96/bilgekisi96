@@ -18,6 +18,14 @@
 [![website](https://img.shields.io/badge/%20-MY_blog-orange?&style=for-the-badge&logoColor=blue)](https://yapayzekaneuralnetwork.blogspot.com/)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Yavuzselimozkok" alt="yavuzselimozkok" /> </p>
 
+## 💻 Web Programming
+<a href="#" target="_blank"> <img src="https://logowik.com/content/uploads/images/angular9826.logowik.com.webp" alt="Matplotlib" height="50"/> </a>
+<a href="#" target="_blank"> <img src="https://cdn.thenewstack.io/media/2022/01/10b88c68-typescript-logo.png" alt="Matplotlib" height="50"/> </a>
+
+
+
+
+
 ## 💻 Data Visualization
 
 <a href="#" target="_blank"> <img src="https://matplotlib.org/stable/_static/logo2_compressed.svg" alt="Matplotlib" height="50"/> </a>
