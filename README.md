@@ -6,7 +6,8 @@
 
 ## Hi there. I'm Yavuz selim..
 - :telescope: I’m currently working on AI chatbot projects and web projects.
-- :speech_balloon: I have completed Fantastic Projects about Chatbot with AI  
+- :speech_balloon: I have completed Fantastic Projects about Chatbot with AI
+- :telescope: I have completed my Data Science training with Harvard Bootcamp. 
 - :seedling: I’m currently learning Web applications and CRM systems  
 - :speech_balloon: My life motto => "Creat Something Greater Than Yourself" 
 
