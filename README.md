@@ -1,15 +1,20 @@
 <img align="left" src="https://user-images.githubusercontent.com/67560900/107698101-10797e00-6cda-11eb-8357-b7808d66151a.gif" width="310" alt="hellogif">
-<h1 align="center"> <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/hi.gif" width="40"/>  I'm <a href="https://sunitroy2703.github.io/" target="_blank">Yavuz selim</a>. Nice to see you.🤗 </h1> 
 
-## Hi there. I'm Yavuz selim..:wave:
-- :telescope: I’m currently working on Django Web Frame work and Angular My idea is has a be great Full Stack Developer and consultant 
-- :speech_balloon: I have finished Data Analysis Course and I am working on Data Scientist working attidues :) 
-- :seedling: I’m currently learning Deep Learning and NLP 
+<h1 align="center"> 
+  <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/hi.gif" width="40"/>  
+  I'm <a href="https://sunitroy2703.github.io/" target="_blank">Yavuz selim</a>. Nice to see you.🤗 
+</h1> 
+
+## Hi there. I'm Yavuz selim..
+- :telescope: I’m currently working on AI chatbot projects and web projects.
+- :speech_balloon: I have completed Fantastic Projects about Chatbot with AI  
+- :seedling: I’m currently learning Web applications and CRM systems  
 - :speech_balloon: My life motto => "Creat Something Greater Than Yourself" 
 
 - ### My first ML-deployment [ML-Autoscout-Project](https://share.streamlit.io/bilgekisi96/ml-deployment/main/streamlit_student_app.py)
 - ### Churn Prediction Project : [Employee Decision Predictor](https://share.streamlit.io/bilgekisi96/ml-deployment/main/stream.py)
 ## :man::woman: Social
+
 [![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yavuz-selim-%C3%B6zk%C3%B6k-48214015b/)
 [<img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>](https://www.hackerrank.com/yavuzselimozkok)
 [![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:yavuzselimozkok@gmail.com)
